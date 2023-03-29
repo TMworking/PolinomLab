@@ -1,0 +1,7 @@
+﻿  main.cpp
+C:\Users\stm_0\source\repos\PolinomLab\PolinomLab\Main\Polynom.h(103,38): warning C4244: =: преобразование "int" в "float", возможна потеря данных
+C:\Users\stm_0\source\repos\PolinomLab\PolinomLab\Main\Polynom.h(55,7): warning C4101: cha: неиспользованная локальная переменная
+C:\Users\stm_0\source\repos\PolinomLab\PolinomLab\Main\Polynom.h(367,28): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+C:\Users\stm_0\source\repos\PolinomLab\PolinomLab\Main\Polynom.h(383,28): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+C:\Users\stm_0\source\repos\PolinomLab\PolinomLab\Main\Polynom.h(423,143): warning C4244: +=: преобразование "double" в "float", возможна потеря данных
+  main.vcxproj -> C:\Users\stm_0\source\repos\PolinomLab\PolinomLab\cmake\Main\Debug\main.exe

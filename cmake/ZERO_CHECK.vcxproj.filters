@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\stm_0\source\repos\PolinomLab\PolinomLab\cmake\CMakeFiles\6d8915a736212ac07a66141f9c32d9e4\generate.stamp.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="CMake Rules">
+      <UniqueIdentifier>{8D3F3A62-6350-3877-993D-9C9CF0E5C6F5}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

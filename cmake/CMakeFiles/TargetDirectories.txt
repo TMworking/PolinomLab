@@ -1,0 +1,5 @@
+C:/Users/stm_0/source/repos/PolinomLab/PolinomLab/cmake/CMakeFiles/ALL_BUILD.dir
+C:/Users/stm_0/source/repos/PolinomLab/PolinomLab/cmake/CMakeFiles/ZERO_CHECK.dir
+C:/Users/stm_0/source/repos/PolinomLab/PolinomLab/cmake/Main/CMakeFiles/main.dir
+C:/Users/stm_0/source/repos/PolinomLab/PolinomLab/cmake/gtest/CMakeFiles/gtest.dir
+C:/Users/stm_0/source/repos/PolinomLab/PolinomLab/cmake/test/CMakeFiles/test.dir
